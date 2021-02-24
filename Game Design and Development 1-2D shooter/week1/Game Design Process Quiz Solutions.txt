@@ -1,0 +1,47 @@
+Game Design Process Quiz
+
+Question 1
+What makes games UNIQUE over film and books?
+
+Games can take you away to a wonderful place and there let you do an amazing thing.
+
+Question 2
+Which of the following is NOT in the primary list of things that a game designer does, as we defined in class?
+
+Translate.
+
+Question 3
+The first thing to consider when making a game is:
+
+
+
+Question 4
+One of the most significant differences between players and how they engage in games is:
+
+Play style (core vs. casual)
+
+Question 5
+What is NOT derived from or represented in the Design, Play, Experience framework?
+
+
+
+Question 6
+The term game platform refers to?
+
+The computing hardware and operating system.
+
+Question 7
+All of the following can be considered game technology EXCEPT:
+
+Game players
+
+Question 8
+On a small team (less than 5 people), the primary game development roles are all of the following EXCEPT:
+
+Producer
+
+Question 9
+The more people you have on a game development team, the more likely you are to have people filling much more specific roles.
+
+T?rue
+
